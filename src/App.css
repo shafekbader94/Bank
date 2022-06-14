@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+
+.forestgreen{
+  background-color: rgb(158, 203, 158);
+  font-size: 1.2em;
+}
+
+.crimson{
+  background-color: rgba(191, 77, 102, 0.711);
+  font-size: 1.2em;
+}
+
+#main-links > a{
+  margin: 10px;
+  color: #ced0d2;
+ 
+  font-size: 1.5em;
+padding: 2ch;
+
+}
+
+
+.tableClass{
+  font-size: 1.3em;
+  font-weight: 900;
+  background-color: #d4d6d7;
+}
+
+
+#balance{
+  font-weight: 800;
+  font-size: 1.5em;
+  width: 7cm;
+}
+
+.operation{
+  font-size: 1.3em;
+  font-weight: 600;
+}
+
+.category{
+  font-size: 1.3em;
+}
+
+.backgroundButtons{
+  background-color: #122437;
+  padding: 2ch;
+}
